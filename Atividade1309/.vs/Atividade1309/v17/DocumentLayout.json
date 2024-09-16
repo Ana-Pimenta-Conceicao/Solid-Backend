@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Downloads\\Atividade1309\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2F54E3-B010-4B04-AF6B-52719E1D2A79}|Atividade1309\\Atividade1309.csproj|c:\\users\\aluno\\downloads\\atividade1309\\atividade1309\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2F54E3-B010-4B04-AF6B-52719E1D2A79}|Atividade1309\\Atividade1309.csproj|solutionrelative:atividade1309\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2F54E3-B010-4B04-AF6B-52719E1D2A79}|Atividade1309\\Atividade1309.csproj|c:\\users\\aluno\\downloads\\atividade1309\\atividade1309\\repositorys\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2F54E3-B010-4B04-AF6B-52719E1D2A79}|Atividade1309\\Atividade1309.csproj|solutionrelative:atividade1309\\repositorys\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2F54E3-B010-4B04-AF6B-52719E1D2A79}|Atividade1309\\Atividade1309.csproj|c:\\users\\aluno\\downloads\\atividade1309\\atividade1309\\repositorys\\fornecedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2F54E3-B010-4B04-AF6B-52719E1D2A79}|Atividade1309\\Atividade1309.csproj|solutionrelative:atividade1309\\repositorys\\fornecedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2F54E3-B010-4B04-AF6B-52719E1D2A79}|Atividade1309\\Atividade1309.csproj|c:\\users\\aluno\\downloads\\atividade1309\\atividade1309\\repositorys\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2F54E3-B010-4B04-AF6B-52719E1D2A79}|Atividade1309\\Atividade1309.csproj|solutionrelative:atividade1309\\repositorys\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2F54E3-B010-4B04-AF6B-52719E1D2A79}|Atividade1309\\Atividade1309.csproj|c:\\users\\aluno\\downloads\\atividade1309\\atividade1309\\repositorys\\interfaces\\ifornecedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2F54E3-B010-4B04-AF6B-52719E1D2A79}|Atividade1309\\Atividade1309.csproj|solutionrelative:atividade1309\\repositorys\\interfaces\\ifornecedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2F54E3-B010-4B04-AF6B-52719E1D2A79}|Atividade1309\\Atividade1309.csproj|c:\\users\\aluno\\downloads\\atividade1309\\atividade1309\\repositorys\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2F54E3-B010-4B04-AF6B-52719E1D2A79}|Atividade1309\\Atividade1309.csproj|solutionrelative:atividade1309\\repositorys\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2F54E3-B010-4B04-AF6B-52719E1D2A79}|Atividade1309\\Atividade1309.csproj|c:\\users\\aluno\\downloads\\atividade1309\\atividade1309\\repositorys\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2F54E3-B010-4B04-AF6B-52719E1D2A79}|Atividade1309\\Atividade1309.csproj|solutionrelative:atividade1309\\repositorys\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2F54E3-B010-4B04-AF6B-52719E1D2A79}|Atividade1309\\Atividade1309.csproj|c:\\users\\aluno\\downloads\\atividade1309\\atividade1309\\models\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2F54E3-B010-4B04-AF6B-52719E1D2A79}|Atividade1309\\Atividade1309.csproj|solutionrelative:atividade1309\\models\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2F54E3-B010-4B04-AF6B-52719E1D2A79}|Atividade1309\\Atividade1309.csproj|c:\\users\\aluno\\downloads\\atividade1309\\atividade1309\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2F54E3-B010-4B04-AF6B-52719E1D2A79}|Atividade1309\\Atividade1309.csproj|solutionrelative:atividade1309\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2F54E3-B010-4B04-AF6B-52719E1D2A79}|Atividade1309\\Atividade1309.csproj|c:\\users\\aluno\\downloads\\atividade1309\\atividade1309\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2F54E3-B010-4B04-AF6B-52719E1D2A79}|Atividade1309\\Atividade1309.csproj|solutionrelative:atividade1309\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2F54E3-B010-4B04-AF6B-52719E1D2A79}|Atividade1309\\Atividade1309.csproj|c:\\users\\aluno\\downloads\\atividade1309\\atividade1309\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2F54E3-B010-4B04-AF6B-52719E1D2A79}|Atividade1309\\Atividade1309.csproj|solutionrelative:atividade1309\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2F54E3-B010-4B04-AF6B-52719E1D2A79}|Atividade1309\\Atividade1309.csproj|c:\\users\\aluno\\downloads\\atividade1309\\atividade1309\\data\\atvdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2F54E3-B010-4B04-AF6B-52719E1D2A79}|Atividade1309\\Atividade1309.csproj|solutionrelative:atividade1309\\data\\atvdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2F54E3-B010-4B04-AF6B-52719E1D2A79}|Atividade1309\\Atividade1309.csproj|c:\\users\\aluno\\downloads\\atividade1309\\atividade1309\\controllers\\fornecedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2F54E3-B010-4B04-AF6B-52719E1D2A79}|Atividade1309\\Atividade1309.csproj|solutionrelative:atividade1309\\controllers\\fornecedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 305,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Atividade1309\\Atividade1309\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade1309\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Atividade1309\\Atividade1309\\Program.cs",
+              "RelativeToolTip": "Atividade1309\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:17:57.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Atividade1309\\Atividade1309\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Atividade1309\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Atividade1309\\Atividade1309\\Models\\Cliente.cs",
+              "RelativeToolTip": "Atividade1309\\Models\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:15:40.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Atividade1309\\Atividade1309\\Repositorys\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Atividade1309\\Repositorys\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Atividade1309\\Atividade1309\\Repositorys\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Atividade1309\\Repositorys\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:11:46.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Atividade1309\\Atividade1309\\Repositorys\\Interfaces\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "Atividade1309\\Repositorys\\Interfaces\\IClienteRepository.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Atividade1309\\Atividade1309\\Repositorys\\Interfaces\\IClienteRepository.cs",
+              "RelativeToolTip": "Atividade1309\\Repositorys\\Interfaces\\IClienteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:11:53.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IFornecedorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Atividade1309\\Atividade1309\\Repositorys\\Interfaces\\IFornecedorRepository.cs",
+              "RelativeDocumentMoniker": "Atividade1309\\Repositorys\\Interfaces\\IFornecedorRepository.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Atividade1309\\Atividade1309\\Repositorys\\Interfaces\\IFornecedorRepository.cs",
+              "RelativeToolTip": "Atividade1309\\Repositorys\\Interfaces\\IFornecedorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:12:00.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Fornecedor.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Atividade1309\\Atividade1309\\Models\\Fornecedor.cs",
+              "RelativeDocumentMoniker": "Atividade1309\\Models\\Fornecedor.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Atividade1309\\Atividade1309\\Models\\Fornecedor.cs",
+              "RelativeToolTip": "Atividade1309\\Models\\Fornecedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:15:43.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Atividade1309\\Atividade1309\\Repositorys\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "Atividade1309\\Repositorys\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Atividade1309\\Atividade1309\\Repositorys\\ClienteRepository.cs",
+              "RelativeToolTip": "Atividade1309\\Repositorys\\ClienteRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:12:06.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FornecedorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Atividade1309\\Atividade1309\\Repositorys\\FornecedorRepository.cs",
+              "RelativeDocumentMoniker": "Atividade1309\\Repositorys\\FornecedorRepository.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Atividade1309\\Atividade1309\\Repositorys\\FornecedorRepository.cs",
+              "RelativeToolTip": "Atividade1309\\Repositorys\\FornecedorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:12:25.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Atividade1309\\Atividade1309\\Repositorys\\Repository.cs",
+              "RelativeDocumentMoniker": "Atividade1309\\Repositorys\\Repository.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Atividade1309\\Atividade1309\\Repositorys\\Repository.cs",
+              "RelativeToolTip": "Atividade1309\\Repositorys\\Repository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:12:29.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Atividade1309\\Atividade1309\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Atividade1309\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Atividade1309\\Atividade1309\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Atividade1309\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwFUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:12:36.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FornecedorController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Atividade1309\\Atividade1309\\Controllers\\FornecedorController.cs",
+              "RelativeDocumentMoniker": "Atividade1309\\Controllers\\FornecedorController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Atividade1309\\Atividade1309\\Controllers\\FornecedorController.cs",
+              "RelativeToolTip": "Atividade1309\\Controllers\\FornecedorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:12:43.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Atividade1309\\Atividade1309\\Startup.cs",
+              "RelativeDocumentMoniker": "Atividade1309\\Startup.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Atividade1309\\Atividade1309\\Startup.cs",
+              "RelativeToolTip": "Atividade1309\\Startup.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAwwC8AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:09:42.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AtvDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Atividade1309\\Atividade1309\\Data\\AtvDbContext.cs",
+              "RelativeDocumentMoniker": "Atividade1309\\Data\\AtvDbContext.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Atividade1309\\Atividade1309\\Data\\AtvDbContext.cs",
+              "RelativeToolTip": "Atividade1309\\Data\\AtvDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:12:46.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
